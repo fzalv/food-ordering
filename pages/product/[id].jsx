@@ -113,7 +113,7 @@ const Product = () => {
           <input
             type="number"
             defaultValue={1}
-            className={styles.quantitu}
+            className={styles.quantity}
           />
           <button className={styles.button}>
             Add to Cart
