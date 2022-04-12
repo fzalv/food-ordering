@@ -19,6 +19,7 @@
   justify-content: space-between;
 }
 
+/* Animation Orders */
 .done {
   display: flex;
   flex-direction: column;
@@ -52,6 +53,7 @@
 .inProgress .checkedIcon {
   display: none;
 }
+/* End */
 
 .right {
   flex: 1;
